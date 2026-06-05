@@ -5,6 +5,13 @@
   duration_min: 100
   rated_range: ~ 1999
   status: Upcoming
+- name_ja: AtCoder Regular Contest 223
+  name_en: AtCoder Regular Contest 223
+  url: https://atcoder.jp/contests/arc223
+  start_time: '2026-06-28T21:00:00+09:00'
+  duration_min: 120
+  rated_range: 1200 ~ 2799
+  status: Upcoming
 - name_ja: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
   name_en: 第七回日本最強プログラマー学生選手権～Advance～ -予選- （AtCoder Beginner Contest 464）
   url: https://atcoder.jp/contests/abc464
