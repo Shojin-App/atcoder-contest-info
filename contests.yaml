@@ -53,7 +53,7 @@
   start_time: '2026-06-06T21:00:00+09:00'
   duration_min: 100
   rated_range: ~ 1999
-  status: Upcoming
+  status: Recent
 - name_ja: AtCoder Regular Contest++ 221
   name_en: AtCoder Regular Contest++ 221
   url: https://atcoder.jp/contests/arc221
@@ -401,11 +401,4 @@
   start_time: '2026-02-01T19:00:00+09:00'
   duration_min: 240
   rated_range: All
-  status: Recent
-- name_ja: JOI 2025/2026 セミファイナルステージ 過去問
-  name_en: ''
-  url: https://atcoder.jp/contests/joi2026sf
-  start_time: '2026-02-01T13:00:00+09:00'
-  duration_min: 240
-  rated_range: null
   status: Recent
